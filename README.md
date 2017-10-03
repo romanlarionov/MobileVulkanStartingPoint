@@ -1,7 +1,5 @@
 
-Vulkan Ray Tracer
-=================
+Mobile Vulkan Starting Point
+============================
 
-WORK IN PROGRESS
-
-This is an experiment to get familiar with Android graphics development and to try something new :)
+Its a pain to just start writing Vulkan on Android. This is a starting point with everything set up.
